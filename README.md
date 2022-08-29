@@ -2,13 +2,13 @@
 ### yPcalc - An IPv4 and IPv6 python based subnet calculator
 
 
-#### Installation
+#### Installation:
 ```
 $ git clone https://github.com/sagarkhandve/yPcalc.git
 $ cd yPcalc
 $ sudo python3 setup.py install
 ```
-#### Usage
+#### Usage:
 
     $ ypcalc -h
     usage: ypcalc [-h] [-V] [-L] {show,check} ...
@@ -26,7 +26,7 @@ $ sudo python3 setup.py install
         check        check if IP address exists in the network. Exits with code 1
                      if not found
 
-IPv4 examples:
+#### IPv4 examples:
    
     $ ypcalc show 192.0.3.171/27
     Address:     192.0.3.171/27
@@ -46,7 +46,7 @@ IPv4 examples:
     $ ypcalc check 192.0.3.192 192.0.3.171/27
     ypcalc: error: IP 192.0.3.192 does not exist in network 192.0.3.171/27
 
-IPv6 examples:
+#### IPv6 examples:
 
     $ ypcalc show 2002:c000:022a::/29
     Address:     2002:c000:022a:0000:0000:0000:0000:0000/29
