@@ -4,9 +4,9 @@
 
 #### Installation
 ```
-    $ git clone https://github.com/sagarkhandve/yPcalc.git
-    $ cd yPcalc
-    $ sudo python3 setup.py install
+$ git clone https://github.com/sagarkhandve/yPcalc.git
+$ cd yPcalc
+$ sudo python3 setup.py install
 ```
 #### Note: You must have administrator/super user privileges
 for the installation.
@@ -28,13 +28,6 @@ for the installation.
         show         show the IP address information
         check        check if IP address exists in the network. Exits with code 1
                      if not found
-
-It has two commands:
-
- `show` displays the information about the IP or network address;
- `check` performs a lookup to see if the IP address exists in the network.
-
-See `ypcalc {command} -h` for command specific arguments.
 
 IPv4 examples:
    
