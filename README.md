@@ -1,36 +1,28 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 ### yPcalc - An IPv4 and IPv6 subnet calculator
-
 1.  Description
 2.  Requirements
 3.  Installation
 4.  Usage
 
 1. Description
---------------
-
 yPcalc is a simple Python based IPv4 and IPv6 calculator. It's output
 is easy to parse which makes it possible to intergrate it to shell
 scripts.
 
 2. Requirements
----------------
-
 - Python 2.7 (<http://python.org>);
 - Python `ipcalc` module (<https://pypi.python.org/pypi/ipcalc>).
 
 3. Installation
----------------
-- 
-        $ git clone https://github.com/sagarkhandve/yPcalc.git
-        $ cd yPcalc
-        $ sudo python3 setup.py install
+$ git clone https://github.com/sagarkhandve/yPcalc.git
+$ cd yPcalc
+$ sudo python3 setup.py install
 
 *Note: You must have administrator/super user privileges
 for the installation.*
 
 4. Usage
---------
 
 yPcalc is a command line software, therefore all actions are performed
 in command prompt.
@@ -53,8 +45,8 @@ in command prompt.
 
 It has two commands:
 
-- `show` displays the information about the IP or network address;
-- `check` performs a lookup to see if the IP address exists in the network.
+ `show` displays the information about the IP or network address;
+ `check` performs a lookup to see if the IP address exists in the network.
 
 See `ypcalc {command} -h` for command specific arguments.
 
