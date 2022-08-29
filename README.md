@@ -6,6 +6,7 @@
 ```
 $ git clone https://github.com/sagarkhandve/yPcalc.git
 $ cd yPcalc
+$ chmod +x setup.py
 $ sudo python3 setup.py install
 ```
 #### Usage:
