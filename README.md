@@ -8,9 +8,6 @@ $ git clone https://github.com/sagarkhandve/yPcalc.git
 $ cd yPcalc
 $ sudo python3 setup.py install
 ```
-#### Note: You must have administrator/super user privileges
-for the installation.
-
 #### Usage
 
     $ ypcalc -h
