@@ -1,14 +1,10 @@
-------------------------------------------------------------------------
-yPcalc - An IPv4 and IPv6 subnet calculator
-========================================================================
-------------------------------------------------------------------------
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+### yPcalc - An IPv4 and IPv6 subnet calculator
 
 1.  Description
 2.  Requirements
 3.  Installation
 4.  Usage
-5.  License
-
 
 1. Description
 --------------
@@ -110,7 +106,3 @@ without the caption prefix:
 
 The values are ordered as shown in `ypcalc show -h` regardless of the
 sequence of the arguments.
-
-5. License
---------
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
