@@ -2,7 +2,7 @@
 ### yPcalc - An IPv4 and IPv6 python based subnet calculator.
 
 
-#### Installation:
+#### **Installation:**
 ```
 $ git clone https://github.com/sagarkhandve/yPcalc.git
 $ cd yPcalc
