@@ -72,6 +72,3 @@ without the caption prefix:
     $ ypcalc show --reverse --netmask 2002:c000:022a::/29
     ffff:fff8:0000:0000:0000:0000:0000:0000
     0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.2.2.0.0.0.0.c.2.0.0.2.ip6.arpa
-
-The values are ordered as shown in `ypcalc show -h` regardless of the
-sequence of the arguments.
