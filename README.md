@@ -66,7 +66,7 @@ $ sudo python3 setup.py install
     $ ypcalc check 2002:c009:022a:: 2002:c000:022a::/29
     ypcalc: error: IP 2002:c009:022a:: does not exist in network 2002:c000:022a::/29
 
-When using `output filter` then only specific values are displayed,
+When using **`output filter`** then only specific values are displayed,
 without the caption prefix:
 
     $ ypcalc show --reverse --netmask 2002:c000:022a::/29
