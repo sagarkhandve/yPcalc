@@ -73,4 +73,4 @@ without the caption prefix:
     0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.2.2.0.0.0.0.c.2.0.0.2.ip6.arpa
     
 ## 
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+[![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square&logo)](#license "Go to license section")
